@@ -5,4 +5,5 @@ from [@capacitor/watch](https://github.com/ionic-team/CapacitorWatch) package.
 Steps to reproduce the issue with this repo:
 * `git clone` this repo to your local machine
 * `npm i`
-* `npx cap sync` - Now you should run into an error.
+* `npm run build`
+* `npx cap sync` - Now you should run into an RuntimeError.
